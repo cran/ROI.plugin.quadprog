@@ -1,4 +1,7 @@
 \name{Example-1}
+
+\alias{ROI.plugin.quadprog_Example_1}
+
 \title{Quadratic Problem 1}
 
 

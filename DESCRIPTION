@@ -1,7 +1,7 @@
 Package: ROI.plugin.quadprog
-Version: 1.0-0
+Version: 1.0-1
 Title: 'quadprog' Plug-in for the 'R' Optimization Infrastructure
-Authors@R: c(person("Stefan", "Theussl", role = c("aut", "cre"), email = "Stefan.Theussl@R-Project.org"))
+Authors@R: c(person("Stefan", "Theussl", role = c("aut", "cre"), email = "Stefan.Theussl@R-Project.org", comment = c(ORCID = "0000-0002-6523-4620")))
 Description: Enhances the R Optimization Infrastructure ('ROI') package
     by registering the 'quadprog' solver. It allows for solving quadratic programming (QP)
     problems.
@@ -10,8 +10,8 @@ License: GPL-3
 URL: http://roi.r-forge.r-project.org/,
         https://r-forge.r-project.org/projects/roi/
 NeedsCompilation: no
-Packaged: 2020-08-31 13:58:14 UTC; f
-Author: Stefan Theussl [aut, cre]
+Packaged: 2023-07-07 17:48:26 UTC; theussl
+Author: Stefan Theussl [aut, cre] (<https://orcid.org/0000-0002-6523-4620>)
 Maintainer: Stefan Theussl <Stefan.Theussl@R-Project.org>
 Repository: CRAN
-Date/Publication: 2020-08-31 14:52:17 UTC
+Date/Publication: 2023-07-12 22:40:06 UTC
